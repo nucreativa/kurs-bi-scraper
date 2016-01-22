@@ -1,0 +1,13 @@
+{
+    "name": "nucreativa/kurs-bi-scrapper",
+    "description": "Kurs BI Scrapper",
+    "authors": [
+        {
+            "name": "Ary Wibowo",
+            "email": "nucreativa@gmail.com"
+        }
+    ],
+    "require": {
+        "fabpot/goutte": "^3.1"
+    }
+}

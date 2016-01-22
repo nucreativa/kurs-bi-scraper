@@ -1,2 +1,5 @@
-# kurs-bi-scrapper
-Kurs BI (Bank Indonesia) Scrapper
+# Kurs BI Scrapper
+Ini adalah aplikasi scrapper buat mendapatkan Kurs BI (Bank Indonesia). 
+
+Referensi : 
+http://www.bi.go.id/en/moneter/informasi-kurs/referensi-jisdor/Default.aspx
